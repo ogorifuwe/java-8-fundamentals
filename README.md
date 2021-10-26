@@ -9,3 +9,4 @@ This repo contains my journey learning Java 8 Concepts.
 - Default Methods and Static Methods in Interfaces
 - Predicate
 - Function
+- Consumer
