@@ -10,3 +10,5 @@ This repo contains my journey learning Java 8 Concepts.
 - Predicate
 - Function
 - Consumer
+- Supplier
+- BiFunctional Interfaces
