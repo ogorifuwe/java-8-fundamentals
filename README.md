@@ -12,3 +12,4 @@ This repo contains my journey learning Java 8 Concepts.
 - Consumer
 - Supplier
 - BiFunctional Interfaces
+- Primitive Type Functional Interfaces, Unary and Binary Operators
