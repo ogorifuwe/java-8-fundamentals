@@ -14,3 +14,4 @@ This repo contains my journey learning Java 8 Concepts.
 - BiFunctional Interfaces
 - Primitive Type Functional Interfaces, Unary and Binary Operators
 - Method and Constructor Reference with Double Colon Operator
+- Streams
