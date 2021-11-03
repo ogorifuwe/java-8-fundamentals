@@ -15,3 +15,4 @@ This repo contains my journey learning Java 8 Concepts.
 - Primitive Type Functional Interfaces, Unary and Binary Operators
 - Method and Constructor Reference with Double Colon Operator
 - Streams
+- Date and Time API
